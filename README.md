@@ -13,8 +13,14 @@ Download link: https://www.kaggle.com/mlg-ulb/creditcardfraud
 
 # Libraries 
 
-pandas matplotlib seaborn scikit-learn
+. pandas 
+. matplotlib 
+. seaborn 
+. scikit-learn
 
 # Algorithms 
 
-Logistic Regression Random Forest XGBoost Best Model F1 Score: 87.00
+. Logistic Regression
+. Random Forest 
+. XGBoost Best Model
+. F1 Score: 87.00
