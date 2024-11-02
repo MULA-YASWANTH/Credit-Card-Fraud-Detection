@@ -20,4 +20,7 @@ Download link: https://www.kaggle.com/mlg-ulb/creditcardfraud
 **Algorithms**
 * Logistic Regression
 * Random Forest
-* XGBoost (Best Model, F1 Score: 87.00)
+* XGBoost
+
+    * Best Model, F1 Score: 87.00
+  
