@@ -22,5 +22,5 @@ Download link: https://www.kaggle.com/mlg-ulb/creditcardfraud
 * Random Forest
 * XGBoost
 
-* Best Model F1 Score: 87.00
+Best Model F1 Score: 87.00
   
